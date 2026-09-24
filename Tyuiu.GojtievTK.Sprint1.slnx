@@ -7,6 +7,6 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib/Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib.csproj" Id="0239b8ac-0cfc-463a-bb0c-e3e7e7dc0571" />
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Test/Tyuiu.GojtievTK.Sprint1.Task1.V25.Test.csproj" Id="f930578a-7a82-4ddb-9131-851f99b02e77" />
-    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V8/Tyuiu.GojtievTK.Sprint1.Task1.V25.csproj" Id="c2c591bd-8640-4b99-8c90-d2048f1e97f4" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25/Tyuiu.GojtievTK.Sprint1.Task1.V25.csproj" Id="03a859e3-2238-448f-a6ee-485778a846df" />
   </Folder>
 </Solution>
