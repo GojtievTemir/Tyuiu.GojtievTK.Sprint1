@@ -5,8 +5,8 @@
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task0.V8/Tyuiu.GojtievTK.Sprint1.Task0.V8.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib/Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib.csproj" Id="0239b8ac-0cfc-463a-bb0c-e3e7e7dc0571" />
-    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Test/Tyuiu.GojtievTK.Sprint1.Task1.V25.Test.csproj" Id="f930578a-7a82-4ddb-9131-851f99b02e77" />
-    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25/Tyuiu.GojtievTK.Sprint1.Task1.V25.csproj" Id="03a859e3-2238-448f-a6ee-485778a846df" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib/Tyuiu.GojtievTK.Sprint1.Task1.V25.Lib.csproj" Id="2cf6a486-2de0-4bcc-81d8-1d866109e5d2" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25.Test/Tyuiu.GojtievTK.Sprint1.Task1.V25.Test.csproj" Id="ed90db00-5c36-4f64-990f-90022d52670e" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task1.V25/Tyuiu.GojtievTK.Sprint1.Task1.V25.csproj" Id="76bba933-a4f9-4de1-af47-15aa1e966fe9" />
   </Folder>
 </Solution>
