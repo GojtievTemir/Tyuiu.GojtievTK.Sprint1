@@ -32,7 +32,7 @@ namespace Tyuiu.GojtievTK.Sprint1.Task1.V25
             Console.WriteLine("********************************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                           *");
             Console.WriteLine("********************************************************************************************************");
-            Console.WriteLine(Math.Round(ds.Calculate(x, y),2));
+            Console.WriteLine(ds.Calculate(x, y));
             Console.ReadLine();
         }
     }
