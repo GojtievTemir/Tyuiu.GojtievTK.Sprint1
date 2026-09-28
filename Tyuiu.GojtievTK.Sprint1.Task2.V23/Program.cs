@@ -11,8 +11,8 @@ namespace Tyuiu.GojtievTK.Sprint1.Task2.V23
             Console.WriteLine("********************************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                                            *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                                     *");
-            Console.WriteLine("* Задание #1                                                                                           *");
-            Console.WriteLine("* Вариант #25                                                                                          *");
+            Console.WriteLine("* Задание #2                                                                                           *");
+            Console.WriteLine("* Вариант #23                                                                                        *");
             Console.WriteLine("* Выполнил: Гойтиев Темирсолтан Крымсолтанович | ПКТБ-26-1                                             *");
             Console.WriteLine("********************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                             *");
