@@ -1,0 +1,16 @@
+﻿using Tyuiu.GojtievTK.Sprint1.Task4.V26.Lib;
+namespace Tyuiu.GojtievTK.Sprint1.Task4.V26.Test
+{
+    [TestClass]
+    public sealed class DataServiceTest
+    {
+        [TestMethod]
+        public void ValidExpression()
+        {
+            DataService ds = new DataService();
+            Assert.AreEqual(ds.Calculate(0, 0), 0);
+
+
+        }
+    }
+}
