@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task0.V8.Lib/Tyuiu.GojtievTK.Sprint1.Task0.V8.Lib.csproj" />
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task0.V8.Test/Tyuiu.GojtievTK.Sprint1.Task0.V8.Test.csproj" />
@@ -28,5 +31,10 @@
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task5.V3.Lib/Tyuiu.GojtievTK.Sprint1.Task5.V3.Lib.csproj" Id="fdcf0407-8685-49ba-9327-e712c907e43f" />
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task5.V3.Test/Tyuiu.GojtievTK.Sprint1.Task5.V3.Test.csproj" Id="8749f734-3cb8-4bd3-bf30-6a0fb1fadcee" />
     <Project Path="Tyuiu.GojtievTK.Sprint1.Task5.V3/Tyuiu.GojtievTK.Sprint1.Task5.V3.csproj" Id="b1a15fe6-56f8-4747-a484-1ede3a1be59b" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task6.V6.Lib/Tyuiu.GojtievTK.Sprint1.Task6.V6.Lib.csproj" Id="7bbdcb2d-ae92-44f2-b75e-e0e820a94a9d" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task6.V6.Test/Tyuiu.GojtievTK.Sprint1.Task6.V6.Test.csproj" Id="61869764-c441-4f45-8171-448f6b34a116" />
+    <Project Path="Tyuiu.GojtievTK.Sprint1.Task6.V6/Tyuiu.GojtievTK.Sprint1.Task6.V6.csproj" Id="780a10e1-a52c-4a26-938e-9b51f1e234ef" />
   </Folder>
 </Solution>
