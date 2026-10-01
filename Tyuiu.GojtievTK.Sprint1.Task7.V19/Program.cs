@@ -24,7 +24,7 @@ namespace Tyuiu.GojtievTK.Sprint1.Task7.V19
             double x;
             Console.WriteLine(" Введите значение X:");
             x = double.Parse((Console.ReadLine()));
-         
+
 
 
             Console.WriteLine("********************************************************************************************************");
